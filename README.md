@@ -15,7 +15,7 @@
 ### 🛠 Technical Skills
 **Learning & Practicing**  
 ▸ **Frontend**: HTML/CSS, JavaScript (React basics)  
-▸ **Backend**: Node.js, Python (Flask)  
+▸ **Backend**: Node.js, MongoDB ,Express.js
 ▸ **AI/ML**: TensorFlow fundamentals, Kaggle datasets  
 ▸ **Tools**: Git, VS Code, FlutterFlow exploration  
 
@@ -34,7 +34,7 @@
    - Looking for beginner-friendly issues to fix  
 
 4. ### 🧠 Data Structures & Algorithms 
-   -LeetCode: Problem Sovlving....
+   -LeetCode: Problem Solving....
 ---
 
 
