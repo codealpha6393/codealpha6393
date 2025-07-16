@@ -43,7 +43,7 @@
   <a href="mailto:vivek.gdsc6@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="">
+  <a href="https://x.com/vivekjais94555">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
   </a>
 </p> 
