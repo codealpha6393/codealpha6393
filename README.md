@@ -11,7 +11,8 @@
 </p>
 
 ---
-
+[![OSC India](https://img.shields.io/badge/OSC_India-Contributor-2F8D46?style=flat&logo=open-source-initiative&logoColor=white)](https://www.osconnect.org/)
+[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=flat)](https://github.com/vivekjaiswal)
 ### 🛠 Technical Skills
 **Learning & Practicing**  
 ▸ **Frontend**: HTML/CSS, JavaScript (React basics)  
