@@ -24,8 +24,7 @@
 
 ### 📌 Current Focus
 1. **Building My First Full-Stack Project**  
-   - Planning a task manager app with MERN stack  
-   - Goal: Implement user authentication by [August]  
+   - Planning a task manager app with MERN stack   
 
 2. **Kaggle Learning**  
    - Working through image classification tutorials  
